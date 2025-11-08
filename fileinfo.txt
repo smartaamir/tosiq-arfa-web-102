@@ -1,0 +1,23 @@
+Absolute path
+
+assets => css folder -> style.css
+pages => home.html
+home.html => './assets/css/style.css'
+../assets/css/style.css
+
+Relative path
+
+web
+	style.css
+	home.html
+	./style.css
+
+------------
+
+About us.html    x
+about us.html    x
+
+aboutUs.html     ok
+about-us.html    ok
+about_us.html    ok
+aboutus.html     ok

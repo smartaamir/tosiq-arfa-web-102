@@ -1,0 +1,49 @@
+1 year (6 month, 2.5 month)
+
+2.5 month: Frontend (Html css bootstrap, js, jquery
+reactjs)
+
+6 month: Mern stack (mongdb) + php laravel (mysql)
+
+1 year: Front end, mern stack + php laravel, c# , asp.net , java with spring boot(framework)
+
+2 month : frontend (html css bs, js ,jq, 
+React + tailwind)
+2 month : php laravel (mvc)
+2 month : Mern stack with Nextjs
+
+6 month
+3 month : c#, .net
+3 month : spring framework with java
+
+------------------------------------
+HTML = HYPER TEXT MARKUP LANGUAGE
+css  = cascading style sheet (3 types)
+bs   = bootstrap
+js   = javascript (realtime page interactivity)
+jq   = jquery
+Reactjs = lib of JS
+
+php = hypertext preprocess
+laravel = mvc (Models, Views, Controller)
+db = mysql (Xampp)
+
+mern tack = Mongodb + Express + React(Nextjs) +
+nodejs
+ - config (db), controller(logics + models),
+models (schema -> fields)
+routes (urls, APIs)
+-----------------------------
+
+1 - ats-resume
+2 - portfolio
+3 - linkedin account
+4 - fiverr/upwork
+5 - github
+Others: canva
+
+
+
+
+
+
